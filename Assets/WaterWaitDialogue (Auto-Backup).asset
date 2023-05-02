@@ -945,7 +945,7 @@ MonoBehaviour:
         type: 0
         typeString: CustomFieldType_Text
       - title: Dialogue Text
-        value: 
+        value: I don't like sand.
         type: 0
         typeString: CustomFieldType_Text
       - title: Sequence
@@ -967,8 +967,8 @@ MonoBehaviour:
           m_Calls: []
       canvasRect:
         serializedVersion: 2
-        x: 291
-        y: 17
+        x: 292
+        y: 15
         width: 160
         height: 30
     entryGroups: []
