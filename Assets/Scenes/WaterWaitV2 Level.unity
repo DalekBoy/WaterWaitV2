@@ -728,6 +728,68 @@ Transform:
   m_Father: {fileID: 0}
   m_RootOrder: 26
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1001 &172135713
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 1551201315733772, guid: 64eb1c3ceef25d4408786c061ce050ea, type: 3}
+      propertyPath: m_Name
+      value: Steve
+      objectReference: {fileID: 0}
+    - target: {fileID: 4828938836204182, guid: 64eb1c3ceef25d4408786c061ce050ea, type: 3}
+      propertyPath: m_RootOrder
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4828938836204182, guid: 64eb1c3ceef25d4408786c061ce050ea, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 34.479
+      objectReference: {fileID: 0}
+    - target: {fileID: 4828938836204182, guid: 64eb1c3ceef25d4408786c061ce050ea, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 3.21
+      objectReference: {fileID: 0}
+    - target: {fileID: 4828938836204182, guid: 64eb1c3ceef25d4408786c061ce050ea, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -121.1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4828938836204182, guid: 64eb1c3ceef25d4408786c061ce050ea, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4828938836204182, guid: 64eb1c3ceef25d4408786c061ce050ea, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4828938836204182, guid: 64eb1c3ceef25d4408786c061ce050ea, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4828938836204182, guid: 64eb1c3ceef25d4408786c061ce050ea, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4828938836204182, guid: 64eb1c3ceef25d4408786c061ce050ea, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4828938836204182, guid: 64eb1c3ceef25d4408786c061ce050ea, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4828938836204182, guid: 64eb1c3ceef25d4408786c061ce050ea, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 95893116677696658, guid: 64eb1c3ceef25d4408786c061ce050ea,
+        type: 3}
+      propertyPath: m_Controller
+      value: 
+      objectReference: {fileID: 9100000, guid: c0ecf631f016b6b49ac6cc6693ba1b5c, type: 2}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 64eb1c3ceef25d4408786c061ce050ea, type: 3}
 --- !u!1 &213313738
 GameObject:
   m_ObjectHideFlags: 0
@@ -802,7 +864,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 4146785144945498, guid: 48a6284f3d3366c44ba57611df4afe5d, type: 3}
       propertyPath: m_RootOrder
-      value: 15
+      value: 16
       objectReference: {fileID: 0}
     - target: {fileID: 4146785144945498, guid: 48a6284f3d3366c44ba57611df4afe5d, type: 3}
       propertyPath: m_LocalPosition.x
@@ -1090,7 +1152,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 4925305911184638, guid: e4d35fc487ff62e45b34ae45f80c88fc, type: 3}
       propertyPath: m_RootOrder
-      value: 17
+      value: 18
       objectReference: {fileID: 0}
     - target: {fileID: 4925305911184638, guid: e4d35fc487ff62e45b34ae45f80c88fc, type: 3}
       propertyPath: m_LocalPosition.x
@@ -1134,6 +1196,96 @@ PrefabInstance:
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: e4d35fc487ff62e45b34ae45f80c88fc, type: 3}
+--- !u!1001 &358170642
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 1004036521983716, guid: 30f2ee1f6338c464bbbd30981b3da3f4, type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1070961756631944, guid: 30f2ee1f6338c464bbbd30981b3da3f4, type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 1572979407218282, guid: 30f2ee1f6338c464bbbd30981b3da3f4, type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1582984048489180, guid: 30f2ee1f6338c464bbbd30981b3da3f4, type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1589919558676884, guid: 30f2ee1f6338c464bbbd30981b3da3f4, type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 1820778949551216, guid: 30f2ee1f6338c464bbbd30981b3da3f4, type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1829374085354194, guid: 30f2ee1f6338c464bbbd30981b3da3f4, type: 3}
+      propertyPath: m_Name
+      value: Mason
+      objectReference: {fileID: 0}
+    - target: {fileID: 1935046265222956, guid: 30f2ee1f6338c464bbbd30981b3da3f4, type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4672501942270680, guid: 30f2ee1f6338c464bbbd30981b3da3f4, type: 3}
+      propertyPath: m_RootOrder
+      value: 27
+      objectReference: {fileID: 0}
+    - target: {fileID: 4672501942270680, guid: 30f2ee1f6338c464bbbd30981b3da3f4, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -1.2765454
+      objectReference: {fileID: 0}
+    - target: {fileID: 4672501942270680, guid: 30f2ee1f6338c464bbbd30981b3da3f4, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0.68
+      objectReference: {fileID: 0}
+    - target: {fileID: 4672501942270680, guid: 30f2ee1f6338c464bbbd30981b3da3f4, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -105.62596
+      objectReference: {fileID: 0}
+    - target: {fileID: 4672501942270680, guid: 30f2ee1f6338c464bbbd30981b3da3f4, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: -0.33109158
+      objectReference: {fileID: 0}
+    - target: {fileID: 4672501942270680, guid: 30f2ee1f6338c464bbbd30981b3da3f4, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4672501942270680, guid: 30f2ee1f6338c464bbbd30981b3da3f4, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0.9435986
+      objectReference: {fileID: 0}
+    - target: {fileID: 4672501942270680, guid: 30f2ee1f6338c464bbbd30981b3da3f4, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4672501942270680, guid: 30f2ee1f6338c464bbbd30981b3da3f4, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4672501942270680, guid: 30f2ee1f6338c464bbbd30981b3da3f4, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: -218.67
+      objectReference: {fileID: 0}
+    - target: {fileID: 4672501942270680, guid: 30f2ee1f6338c464bbbd30981b3da3f4, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 95881025203093000, guid: 30f2ee1f6338c464bbbd30981b3da3f4,
+        type: 3}
+      propertyPath: m_Controller
+      value: 
+      objectReference: {fileID: 9100000, guid: c0ecf631f016b6b49ac6cc6693ba1b5c, type: 2}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 30f2ee1f6338c464bbbd30981b3da3f4, type: 3}
 --- !u!4 &379962823 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 400000, guid: 6474e0b80b58f0a479cee92f125c7879,
@@ -1440,7 +1592,7 @@ PrefabInstance:
     - target: {fileID: 2119775930974504096, guid: c708a3b79cd542b42bbfedb17e213bc1,
         type: 3}
       propertyPath: m_RootOrder
-      value: 8
+      value: 9
       objectReference: {fileID: 0}
     - target: {fileID: 2119775930974504096, guid: c708a3b79cd542b42bbfedb17e213bc1,
         type: 3}
@@ -1672,7 +1824,7 @@ Transform:
   - {fileID: 1508481319}
   - {fileID: 618969395}
   m_Father: {fileID: 0}
-  m_RootOrder: 1
+  m_RootOrder: 2
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &705507993
 GameObject:
@@ -2038,19 +2190,19 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 4046202349130672, guid: eac406a61aaed8d448c9491a41fc4c32, type: 3}
       propertyPath: m_RootOrder
-      value: 12
+      value: 13
       objectReference: {fileID: 0}
     - target: {fileID: 4046202349130672, guid: eac406a61aaed8d448c9491a41fc4c32, type: 3}
       propertyPath: m_LocalPosition.x
-      value: 11.65
+      value: 2.5
       objectReference: {fileID: 0}
     - target: {fileID: 4046202349130672, guid: eac406a61aaed8d448c9491a41fc4c32, type: 3}
       propertyPath: m_LocalPosition.y
-      value: 0.9
+      value: 2.56
       objectReference: {fileID: 0}
     - target: {fileID: 4046202349130672, guid: eac406a61aaed8d448c9491a41fc4c32, type: 3}
       propertyPath: m_LocalPosition.z
-      value: -79.489
+      value: -80.37101
       objectReference: {fileID: 0}
     - target: {fileID: 4046202349130672, guid: eac406a61aaed8d448c9491a41fc4c32, type: 3}
       propertyPath: m_LocalRotation.w
@@ -2168,11 +2320,11 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 1829374085354194, guid: 30f2ee1f6338c464bbbd30981b3da3f4, type: 3}
       propertyPath: m_Name
-      value: Chr_Nomad_Male_02
+      value: Charlie
       objectReference: {fileID: 0}
     - target: {fileID: 4672501942270680, guid: 30f2ee1f6338c464bbbd30981b3da3f4, type: 3}
       propertyPath: m_RootOrder
-      value: 2
+      value: 3
       objectReference: {fileID: 0}
     - target: {fileID: 4672501942270680, guid: 30f2ee1f6338c464bbbd30981b3da3f4, type: 3}
       propertyPath: m_LocalPosition.x
@@ -2214,6 +2366,11 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 95881025203093000, guid: 30f2ee1f6338c464bbbd30981b3da3f4,
+        type: 3}
+      propertyPath: m_Controller
+      value: 
+      objectReference: {fileID: 9100000, guid: c0ecf631f016b6b49ac6cc6693ba1b5c, type: 2}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 30f2ee1f6338c464bbbd30981b3da3f4, type: 3}
 --- !u!1001 &884370429
@@ -2325,39 +2482,39 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 1069347578494328, guid: 5cc8937f65137dc49bb957920049ad14, type: 3}
       propertyPath: m_Name
-      value: Chr_Nomad_Male_01
+      value: Jeffrey
       objectReference: {fileID: 0}
     - target: {fileID: 4230118703915622, guid: 5cc8937f65137dc49bb957920049ad14, type: 3}
       propertyPath: m_RootOrder
-      value: 5
+      value: 6
       objectReference: {fileID: 0}
     - target: {fileID: 4230118703915622, guid: 5cc8937f65137dc49bb957920049ad14, type: 3}
       propertyPath: m_LocalPosition.x
-      value: 21.23
+      value: 16.06
       objectReference: {fileID: 0}
     - target: {fileID: 4230118703915622, guid: 5cc8937f65137dc49bb957920049ad14, type: 3}
       propertyPath: m_LocalPosition.y
-      value: 1.419
+      value: 1.63
       objectReference: {fileID: 0}
     - target: {fileID: 4230118703915622, guid: 5cc8937f65137dc49bb957920049ad14, type: 3}
       propertyPath: m_LocalPosition.z
-      value: -117.74
+      value: -127.53
       objectReference: {fileID: 0}
     - target: {fileID: 4230118703915622, guid: 5cc8937f65137dc49bb957920049ad14, type: 3}
       propertyPath: m_LocalRotation.w
-      value: 0.8666248
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 4230118703915622, guid: 5cc8937f65137dc49bb957920049ad14, type: 3}
       propertyPath: m_LocalRotation.x
-      value: -0
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 4230118703915622, guid: 5cc8937f65137dc49bb957920049ad14, type: 3}
       propertyPath: m_LocalRotation.y
-      value: -0.4989605
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 4230118703915622, guid: 5cc8937f65137dc49bb957920049ad14, type: 3}
       propertyPath: m_LocalRotation.z
-      value: -0
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 4230118703915622, guid: 5cc8937f65137dc49bb957920049ad14, type: 3}
       propertyPath: m_LocalEulerAnglesHint.x
@@ -2365,12 +2522,17 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 4230118703915622, guid: 5cc8937f65137dc49bb957920049ad14, type: 3}
       propertyPath: m_LocalEulerAnglesHint.y
-      value: -59.862
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 4230118703915622, guid: 5cc8937f65137dc49bb957920049ad14, type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 95729876736593994, guid: 5cc8937f65137dc49bb957920049ad14,
+        type: 3}
+      propertyPath: m_Controller
+      value: 
+      objectReference: {fileID: 9100000, guid: c0ecf631f016b6b49ac6cc6693ba1b5c, type: 2}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 5cc8937f65137dc49bb957920049ad14, type: 3}
 --- !u!1001 &904356694
@@ -2492,19 +2654,19 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 4881548438059204, guid: 8106e035aeeb3c54f878a7ec6bd83cb5, type: 3}
       propertyPath: m_RootOrder
-      value: 11
+      value: 12
       objectReference: {fileID: 0}
     - target: {fileID: 4881548438059204, guid: 8106e035aeeb3c54f878a7ec6bd83cb5, type: 3}
       propertyPath: m_LocalPosition.x
-      value: 43.03
+      value: 33.86
       objectReference: {fileID: 0}
     - target: {fileID: 4881548438059204, guid: 8106e035aeeb3c54f878a7ec6bd83cb5, type: 3}
       propertyPath: m_LocalPosition.y
-      value: 0.37
+      value: 2.63
       objectReference: {fileID: 0}
     - target: {fileID: 4881548438059204, guid: 8106e035aeeb3c54f878a7ec6bd83cb5, type: 3}
       propertyPath: m_LocalPosition.z
-      value: -77.229
+      value: -78.36001
       objectReference: {fileID: 0}
     - target: {fileID: 4881548438059204, guid: 8106e035aeeb3c54f878a7ec6bd83cb5, type: 3}
       propertyPath: m_LocalRotation.w
@@ -2767,19 +2929,19 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 4046202349130672, guid: eac406a61aaed8d448c9491a41fc4c32, type: 3}
       propertyPath: m_RootOrder
-      value: 10
+      value: 11
       objectReference: {fileID: 0}
     - target: {fileID: 4046202349130672, guid: eac406a61aaed8d448c9491a41fc4c32, type: 3}
       propertyPath: m_LocalPosition.x
-      value: 62.11
+      value: 52.940002
       objectReference: {fileID: 0}
     - target: {fileID: 4046202349130672, guid: eac406a61aaed8d448c9491a41fc4c32, type: 3}
       propertyPath: m_LocalPosition.y
-      value: 0.51
+      value: 2.77
       objectReference: {fileID: 0}
     - target: {fileID: 4046202349130672, guid: eac406a61aaed8d448c9491a41fc4c32, type: 3}
       propertyPath: m_LocalPosition.z
-      value: -82.618996
+      value: -83.75001
       objectReference: {fileID: 0}
     - target: {fileID: 4046202349130672, guid: eac406a61aaed8d448c9491a41fc4c32, type: 3}
       propertyPath: m_LocalRotation.w
@@ -2830,7 +2992,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 4816298774097266, guid: 96e6dca7dd4de4240abda070520eb710, type: 3}
       propertyPath: m_RootOrder
-      value: 9
+      value: 10
       objectReference: {fileID: 0}
     - target: {fileID: 4816298774097266, guid: 96e6dca7dd4de4240abda070520eb710, type: 3}
       propertyPath: m_LocalScale.x
@@ -3007,7 +3169,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 4241338192848336, guid: b1276df4b13575f4fbff0c3b46ce9a2b, type: 3}
       propertyPath: m_LocalPosition.y
-      value: -7.063119
+      value: -7.578119
       objectReference: {fileID: 0}
     - target: {fileID: 4241338192848336, guid: b1276df4b13575f4fbff0c3b46ce9a2b, type: 3}
       propertyPath: m_LocalPosition.z
@@ -4025,7 +4187,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 4159381946450192, guid: 10202ef1ef7802a4a8bafb709626e655, type: 3}
       propertyPath: m_RootOrder
-      value: 6
+      value: 7
       objectReference: {fileID: 0}
     - target: {fileID: 4159381946450192, guid: 10202ef1ef7802a4a8bafb709626e655, type: 3}
       propertyPath: m_LocalPosition.x
@@ -4067,6 +4229,11 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 95986723641662082, guid: 10202ef1ef7802a4a8bafb709626e655,
+        type: 3}
+      propertyPath: m_Controller
+      value: 
+      objectReference: {fileID: 9100000, guid: c0ecf631f016b6b49ac6cc6693ba1b5c, type: 2}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 10202ef1ef7802a4a8bafb709626e655, type: 3}
 --- !u!1 &1376820117 stripped
@@ -4503,43 +4670,43 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 4061328329799748, guid: 330562d8828d5c040b259c8137cf8c1c, type: 3}
       propertyPath: m_LocalPosition.x
-      value: -8.064133
+      value: -12.54
       objectReference: {fileID: 0}
     - target: {fileID: 4061328329799748, guid: 330562d8828d5c040b259c8137cf8c1c, type: 3}
       propertyPath: m_LocalPosition.y
-      value: -6.5731187
+      value: -6.55
       objectReference: {fileID: 0}
     - target: {fileID: 4061328329799748, guid: 330562d8828d5c040b259c8137cf8c1c, type: 3}
       propertyPath: m_LocalPosition.z
-      value: -18.874687
+      value: -18.91
       objectReference: {fileID: 0}
     - target: {fileID: 4061328329799748, guid: 330562d8828d5c040b259c8137cf8c1c, type: 3}
       propertyPath: m_LocalRotation.w
-      value: 0.99447453
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 4061328329799748, guid: 330562d8828d5c040b259c8137cf8c1c, type: 3}
       propertyPath: m_LocalRotation.x
-      value: -0.0704261
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 4061328329799748, guid: 330562d8828d5c040b259c8137cf8c1c, type: 3}
       propertyPath: m_LocalRotation.y
-      value: -0.0054993657
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 4061328329799748, guid: 330562d8828d5c040b259c8137cf8c1c, type: 3}
       propertyPath: m_LocalRotation.z
-      value: 0.0776556
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 4061328329799748, guid: 330562d8828d5c040b259c8137cf8c1c, type: 3}
       propertyPath: m_LocalEulerAnglesHint.x
-      value: -8.003
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 4061328329799748, guid: 330562d8828d5c040b259c8137cf8c1c, type: 3}
       propertyPath: m_LocalEulerAnglesHint.y
-      value: -1.266
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 4061328329799748, guid: 330562d8828d5c040b259c8137cf8c1c, type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
-      value: 9.019
+      value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 330562d8828d5c040b259c8137cf8c1c, type: 3}
@@ -4560,11 +4727,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 4732427770822160, guid: caad2e57ec095d043881b0b045887ab2, type: 3}
       propertyPath: m_LocalPosition.x
-      value: -0.92
+      value: -0.93
       objectReference: {fileID: 0}
     - target: {fileID: 4732427770822160, guid: caad2e57ec095d043881b0b045887ab2, type: 3}
       propertyPath: m_LocalPosition.y
-      value: -3.88
+      value: -4.47
       objectReference: {fileID: 0}
     - target: {fileID: 4732427770822160, guid: caad2e57ec095d043881b0b045887ab2, type: 3}
       propertyPath: m_LocalPosition.z
@@ -4652,7 +4819,12 @@ MonoBehaviour:
   trigger: 32
   condition:
     luaConditions: []
-    questConditions: []
+    questConditions:
+    - questName: Track Down the Stolen Water
+      questState: 1
+      checkQuestEntry: 0
+      entryNumber: 0
+      questEntryState: 0
     acceptedTags: []
     acceptedGameObjects: []
     luaWizardIndex: -1
@@ -4724,6 +4896,84 @@ CapsuleCollider:
   m_Height: 2.1105602
   m_Direction: 1
   m_Center: {x: 0, y: 0.9695233, z: 0}
+--- !u!114 &1404022192
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1404022185}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c593457cd8105e148906690e1707c592, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  trigger: 32
+  condition:
+    luaConditions: []
+    questConditions:
+    - questName: Bring the Water Back
+      questState: 64
+      checkQuestEntry: 0
+      entryNumber: 0
+      questEntryState: 0
+    acceptedTags: []
+    acceptedGameObjects: []
+    luaWizardIndex: -1
+    lastEvaluationValue: 0
+  setQuestState: 1
+  questName: 
+  questState: 0
+  setQuestEntryState: 0
+  questEntryNumber: 1
+  questEntryState: 0
+  setAnotherQuestEntryState: 0
+  anotherQuestEntryNumber: 1
+  anotherQuestEntryState: 0
+  luaCode: 
+  sequence: 
+  sequenceSpeaker: {fileID: 0}
+  sequenceListener: {fileID: 0}
+  waitOneFrameOnStartOrEnable: 1
+  alertMessage: 
+  textTable: {fileID: 0}
+  alertDuration: 0
+  sendMessages: []
+  barkSource: 0
+  barkConversation: 
+  barkText: 
+  barkTextSequence: 
+  barker: {fileID: 0}
+  barkTarget: {fileID: 0}
+  barkOrder: 0
+  allowBarksDuringConversations: 0
+  skipBarkIfNoValidEntries: 0
+  cacheBarkLines: 0
+  conversation: Thank You Convo
+  conversationConversant: {fileID: 0}
+  conversationActor: {fileID: 0}
+  startConversationEntryID: -1
+  startConversationEntryTitle: 
+  exclusive: 0
+  replace: 0
+  skipIfNoValidEntries: 0
+  preventRestartOnSameFrameEnded: 0
+  stopConversationOnTriggerExit: 0
+  stopConversationIfTooFar: 0
+  maxConversationDistance: 5
+  monitorConversationDistanceFrequency: 1
+  showCursorDuringConversation: 0
+  pauseGameDuringConversation: 0
+  setActiveActions: []
+  setEnabledActions: []
+  setAnimatorStateActions: []
+  onExecute:
+    m_PersistentCalls:
+      m_Calls: []
+  useConversationTitlePicker: 1
+  useBarkTitlePicker: 1
+  useQuestNamePicker: 1
+  selectedDatabase: {fileID: 11400000, guid: fae13e34cbc940f498d83fef447af701, type: 2}
 --- !u!1001 &1432518029
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -5036,6 +5286,486 @@ Transform:
     type: 3}
   m_PrefabInstance: {fileID: 1173233042}
   m_PrefabAsset: {fileID: 0}
+--- !u!1 &1546121910 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 1829374085354194, guid: 30f2ee1f6338c464bbbd30981b3da3f4,
+    type: 3}
+  m_PrefabInstance: {fileID: 358170642}
+  m_PrefabAsset: {fileID: 0}
+--- !u!136 &1546121911
+CapsuleCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1546121910}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  m_Radius: 0.5
+  m_Height: 2.1011434
+  m_Direction: 1
+  m_Center: {x: 0, y: 0.9375992, z: -0}
+--- !u!114 &1546121912
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1546121910}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c593457cd8105e148906690e1707c592, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  trigger: 32
+  condition:
+    luaConditions: []
+    questConditions:
+    - questName: Find some food for the bandit guard
+      questState: 1
+      checkQuestEntry: 0
+      entryNumber: 0
+      questEntryState: 0
+    acceptedTags: []
+    acceptedGameObjects: []
+    luaWizardIndex: -1
+    lastEvaluationValue: 0
+  setQuestState: 1
+  questName: 
+  questState: 0
+  setQuestEntryState: 0
+  questEntryNumber: 1
+  questEntryState: 0
+  setAnotherQuestEntryState: 0
+  anotherQuestEntryNumber: 1
+  anotherQuestEntryState: 0
+  luaCode: 
+  sequence: 
+  sequenceSpeaker: {fileID: 0}
+  sequenceListener: {fileID: 0}
+  waitOneFrameOnStartOrEnable: 1
+  alertMessage: 
+  textTable: {fileID: 0}
+  alertDuration: 0
+  sendMessages: []
+  barkSource: 1
+  barkConversation: Barks
+  barkText: 
+  barkTextSequence: 
+  barker: {fileID: 1546121916}
+  barkTarget: {fileID: 0}
+  barkOrder: 0
+  allowBarksDuringConversations: 0
+  skipBarkIfNoValidEntries: 0
+  cacheBarkLines: 0
+  conversation: 
+  conversationConversant: {fileID: 0}
+  conversationActor: {fileID: 0}
+  startConversationEntryID: -1
+  startConversationEntryTitle: 
+  exclusive: 0
+  replace: 0
+  skipIfNoValidEntries: 0
+  preventRestartOnSameFrameEnded: 0
+  stopConversationOnTriggerExit: 0
+  stopConversationIfTooFar: 0
+  maxConversationDistance: 5
+  monitorConversationDistanceFrequency: 1
+  showCursorDuringConversation: 0
+  pauseGameDuringConversation: 0
+  setActiveActions: []
+  setEnabledActions: []
+  setAnimatorStateActions: []
+  onExecute:
+    m_PersistentCalls:
+      m_Calls: []
+  useConversationTitlePicker: 1
+  useBarkTitlePicker: 1
+  useQuestNamePicker: 1
+  selectedDatabase: {fileID: 11400000, guid: fae13e34cbc940f498d83fef447af701, type: 2}
+--- !u!114 &1546121913
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1546121910}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a64578247383140469c45370654a984a, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  actor: Mason
+  persistentDataName: 
+  portrait: {fileID: 0}
+  spritePortrait: {fileID: 0}
+  barkUISettings:
+    barkUI: {fileID: 11453294, guid: d5a18ab9ec93e0d4284d6fbae4f557e0, type: 3}
+    barkUIOffset: {x: 0, y: 0, z: 0}
+  standardDialogueUISettings:
+    subtitlePanelNumber: 0
+    customSubtitlePanel: {fileID: 0}
+    customSubtitlePanelOffset: {x: 0, y: 0, z: 0}
+    menuPanelNumber: 0
+    customMenuPanel: {fileID: 0}
+    customMenuPanelOffset: {x: 0, y: 0, z: 0}
+    useMenuPanelFor: 0
+    portraitAnimatorController: {fileID: 0}
+    setSubtitleColor: 0
+    applyColorToPrependedName: 0
+    prependActorNameSeparator: ': '
+    prependActorNameFormat: '{0}{1}'
+    subtitleColor: {r: 1, g: 1, b: 1, a: 1}
+--- !u!114 &1546121914
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1546121910}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 274b80ab5b659c646ba9338870d14625, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  overrideName: 
+  overrideUseMessage: 
+  maxUseDistance: 5
+  events:
+    onSelect:
+      m_PersistentCalls:
+        m_Calls: []
+    onDeselect:
+      m_PersistentCalls:
+        m_Calls: []
+    onUse:
+      m_PersistentCalls:
+        m_Calls: []
+--- !u!4 &1546121916 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 4672501942270680, guid: 30f2ee1f6338c464bbbd30981b3da3f4,
+    type: 3}
+  m_PrefabInstance: {fileID: 358170642}
+  m_PrefabAsset: {fileID: 0}
+--- !u!114 &1546121917
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1546121910}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c593457cd8105e148906690e1707c592, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  trigger: 32
+  condition:
+    luaConditions: []
+    questConditions:
+    - questName: Find some food for the bandit guard
+      questState: 2
+      checkQuestEntry: 0
+      entryNumber: 0
+      questEntryState: 0
+    acceptedTags: []
+    acceptedGameObjects: []
+    luaWizardIndex: -1
+    lastEvaluationValue: 0
+  setQuestState: 1
+  questName: 
+  questState: 0
+  setQuestEntryState: 0
+  questEntryNumber: 1
+  questEntryState: 0
+  setAnotherQuestEntryState: 0
+  anotherQuestEntryNumber: 1
+  anotherQuestEntryState: 0
+  luaCode: 
+  sequence: 
+  sequenceSpeaker: {fileID: 0}
+  sequenceListener: {fileID: 0}
+  waitOneFrameOnStartOrEnable: 1
+  alertMessage: 
+  textTable: {fileID: 0}
+  alertDuration: 0
+  sendMessages: []
+  barkSource: 1
+  barkConversation: Mason Pre-Theft
+  barkText: 
+  barkTextSequence: 
+  barker: {fileID: 1546121916}
+  barkTarget: {fileID: 0}
+  barkOrder: 0
+  allowBarksDuringConversations: 0
+  skipBarkIfNoValidEntries: 0
+  cacheBarkLines: 0
+  conversation: 
+  conversationConversant: {fileID: 0}
+  conversationActor: {fileID: 0}
+  startConversationEntryID: -1
+  startConversationEntryTitle: 
+  exclusive: 0
+  replace: 0
+  skipIfNoValidEntries: 0
+  preventRestartOnSameFrameEnded: 0
+  stopConversationOnTriggerExit: 0
+  stopConversationIfTooFar: 0
+  maxConversationDistance: 5
+  monitorConversationDistanceFrequency: 1
+  showCursorDuringConversation: 0
+  pauseGameDuringConversation: 0
+  setActiveActions: []
+  setEnabledActions: []
+  setAnimatorStateActions: []
+  onExecute:
+    m_PersistentCalls:
+      m_Calls: []
+  useConversationTitlePicker: 1
+  useBarkTitlePicker: 1
+  useQuestNamePicker: 1
+  selectedDatabase: {fileID: 11400000, guid: fae13e34cbc940f498d83fef447af701, type: 2}
+--- !u!1 &1552015801 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 1829374085354194, guid: 30f2ee1f6338c464bbbd30981b3da3f4,
+    type: 3}
+  m_PrefabInstance: {fileID: 865430936}
+  m_PrefabAsset: {fileID: 0}
+--- !u!4 &1552015803 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 4672501942270680, guid: 30f2ee1f6338c464bbbd30981b3da3f4,
+    type: 3}
+  m_PrefabInstance: {fileID: 865430936}
+  m_PrefabAsset: {fileID: 0}
+--- !u!114 &1552015804
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1552015801}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 274b80ab5b659c646ba9338870d14625, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  overrideName: 
+  overrideUseMessage: 
+  maxUseDistance: 5
+  events:
+    onSelect:
+      m_PersistentCalls:
+        m_Calls: []
+    onDeselect:
+      m_PersistentCalls:
+        m_Calls: []
+    onUse:
+      m_PersistentCalls:
+        m_Calls: []
+--- !u!114 &1552015805
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1552015801}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a64578247383140469c45370654a984a, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  actor: Charlie
+  persistentDataName: 
+  portrait: {fileID: 0}
+  spritePortrait: {fileID: 0}
+  barkUISettings:
+    barkUI: {fileID: 11453294, guid: d5a18ab9ec93e0d4284d6fbae4f557e0, type: 3}
+    barkUIOffset: {x: 0, y: 0, z: 0}
+  standardDialogueUISettings:
+    subtitlePanelNumber: 0
+    customSubtitlePanel: {fileID: 0}
+    customSubtitlePanelOffset: {x: 0, y: 0, z: 0}
+    menuPanelNumber: 0
+    customMenuPanel: {fileID: 0}
+    customMenuPanelOffset: {x: 0, y: 0, z: 0}
+    useMenuPanelFor: 0
+    portraitAnimatorController: {fileID: 0}
+    setSubtitleColor: 0
+    applyColorToPrependedName: 0
+    prependActorNameSeparator: ': '
+    prependActorNameFormat: '{0}{1}'
+    subtitleColor: {r: 1, g: 1, b: 1, a: 1}
+--- !u!114 &1552015806
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1552015801}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c593457cd8105e148906690e1707c592, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  trigger: 32
+  condition:
+    luaConditions: []
+    questConditions:
+    - questName: Find some food for the bandit guard
+      questState: 1
+      checkQuestEntry: 0
+      entryNumber: 0
+      questEntryState: 0
+    acceptedTags: []
+    acceptedGameObjects: []
+    luaWizardIndex: -1
+    lastEvaluationValue: 0
+  setQuestState: 1
+  questName: 
+  questState: 0
+  setQuestEntryState: 0
+  questEntryNumber: 1
+  questEntryState: 0
+  setAnotherQuestEntryState: 0
+  anotherQuestEntryNumber: 1
+  anotherQuestEntryState: 0
+  luaCode: 
+  sequence: 
+  sequenceSpeaker: {fileID: 0}
+  sequenceListener: {fileID: 0}
+  waitOneFrameOnStartOrEnable: 1
+  alertMessage: 
+  textTable: {fileID: 0}
+  alertDuration: 0
+  sendMessages: []
+  barkSource: 1
+  barkConversation: Barks
+  barkText: 
+  barkTextSequence: 
+  barker: {fileID: 1552015803}
+  barkTarget: {fileID: 0}
+  barkOrder: 0
+  allowBarksDuringConversations: 0
+  skipBarkIfNoValidEntries: 0
+  cacheBarkLines: 0
+  conversation: 
+  conversationConversant: {fileID: 0}
+  conversationActor: {fileID: 0}
+  startConversationEntryID: -1
+  startConversationEntryTitle: 
+  exclusive: 0
+  replace: 0
+  skipIfNoValidEntries: 0
+  preventRestartOnSameFrameEnded: 0
+  stopConversationOnTriggerExit: 0
+  stopConversationIfTooFar: 0
+  maxConversationDistance: 5
+  monitorConversationDistanceFrequency: 1
+  showCursorDuringConversation: 0
+  pauseGameDuringConversation: 0
+  setActiveActions: []
+  setEnabledActions: []
+  setAnimatorStateActions: []
+  onExecute:
+    m_PersistentCalls:
+      m_Calls: []
+  useConversationTitlePicker: 1
+  useBarkTitlePicker: 1
+  useQuestNamePicker: 1
+  selectedDatabase: {fileID: 11400000, guid: fae13e34cbc940f498d83fef447af701, type: 2}
+--- !u!136 &1552015807
+CapsuleCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1552015801}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  m_Radius: 0.5
+  m_Height: 2.1011434
+  m_Direction: 1
+  m_Center: {x: 0, y: 0.9375992, z: -0}
+--- !u!114 &1552015808
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1552015801}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c593457cd8105e148906690e1707c592, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  trigger: 32
+  condition:
+    luaConditions: []
+    questConditions:
+    - questName: Find some food for the bandit guard
+      questState: 2
+      checkQuestEntry: 0
+      entryNumber: 0
+      questEntryState: 0
+    acceptedTags: []
+    acceptedGameObjects: []
+    luaWizardIndex: -1
+    lastEvaluationValue: 0
+  setQuestState: 1
+  questName: 
+  questState: 0
+  setQuestEntryState: 0
+  questEntryNumber: 1
+  questEntryState: 0
+  setAnotherQuestEntryState: 0
+  anotherQuestEntryNumber: 1
+  anotherQuestEntryState: 0
+  luaCode: 
+  sequence: 
+  sequenceSpeaker: {fileID: 0}
+  sequenceListener: {fileID: 0}
+  waitOneFrameOnStartOrEnable: 1
+  alertMessage: 
+  textTable: {fileID: 0}
+  alertDuration: 0
+  sendMessages: []
+  barkSource: 1
+  barkConversation: Unhelpful Barks
+  barkText: 
+  barkTextSequence: 
+  barker: {fileID: 1552015803}
+  barkTarget: {fileID: 0}
+  barkOrder: 0
+  allowBarksDuringConversations: 0
+  skipBarkIfNoValidEntries: 0
+  cacheBarkLines: 0
+  conversation: 
+  conversationConversant: {fileID: 0}
+  conversationActor: {fileID: 0}
+  startConversationEntryID: -1
+  startConversationEntryTitle: 
+  exclusive: 0
+  replace: 0
+  skipIfNoValidEntries: 0
+  preventRestartOnSameFrameEnded: 0
+  stopConversationOnTriggerExit: 0
+  stopConversationIfTooFar: 0
+  maxConversationDistance: 5
+  monitorConversationDistanceFrequency: 1
+  showCursorDuringConversation: 0
+  pauseGameDuringConversation: 0
+  setActiveActions: []
+  setEnabledActions: []
+  setAnimatorStateActions: []
+  onExecute:
+    m_PersistentCalls:
+      m_Calls: []
+  useConversationTitlePicker: 1
+  useBarkTitlePicker: 1
+  useQuestNamePicker: 1
+  selectedDatabase: {fileID: 11400000, guid: fae13e34cbc940f498d83fef447af701, type: 2}
 --- !u!1001 &1563115601
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -5053,31 +5783,31 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 4973391309007532, guid: 51b714caf6330624088a098a2bb19fe1, type: 3}
       propertyPath: m_LocalPosition.x
-      value: -14.782249
+      value: -15.1
       objectReference: {fileID: 0}
     - target: {fileID: 4973391309007532, guid: 51b714caf6330624088a098a2bb19fe1, type: 3}
       propertyPath: m_LocalPosition.y
-      value: -6.243119
+      value: -6.14
       objectReference: {fileID: 0}
     - target: {fileID: 4973391309007532, guid: 51b714caf6330624088a098a2bb19fe1, type: 3}
       propertyPath: m_LocalPosition.z
-      value: 2.8264236
+      value: 2.87
       objectReference: {fileID: 0}
     - target: {fileID: 4973391309007532, guid: 51b714caf6330624088a098a2bb19fe1, type: 3}
       propertyPath: m_LocalRotation.w
-      value: 0.06549962
+      value: 0.06585717
       objectReference: {fileID: 0}
     - target: {fileID: 4973391309007532, guid: 51b714caf6330624088a098a2bb19fe1, type: 3}
       propertyPath: m_LocalRotation.x
-      value: 0.10481983
+      value: 0.014409988
       objectReference: {fileID: 0}
     - target: {fileID: 4973391309007532, guid: 51b714caf6330624088a098a2bb19fe1, type: 3}
       propertyPath: m_LocalRotation.y
-      value: -0.9923078
+      value: -0.9977246
       objectReference: {fileID: 0}
     - target: {fileID: 4973391309007532, guid: 51b714caf6330624088a098a2bb19fe1, type: 3}
       propertyPath: m_LocalRotation.z
-      value: -0.0069188806
+      value: -0.00095116475
       objectReference: {fileID: 0}
     - target: {fileID: 4973391309007532, guid: 51b714caf6330624088a098a2bb19fe1, type: 3}
       propertyPath: m_LocalEulerAnglesHint.x
@@ -5089,7 +5819,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 4973391309007532, guid: 51b714caf6330624088a098a2bb19fe1, type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
-      value: -12.06
+      value: -1.655
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 51b714caf6330624088a098a2bb19fe1, type: 3}
@@ -5106,7 +5836,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 4882506722377818, guid: e33b22547c18f7e4da48af6a2da197a2, type: 3}
       propertyPath: m_RootOrder
-      value: 3
+      value: 4
       objectReference: {fileID: 0}
     - target: {fileID: 4882506722377818, guid: e33b22547c18f7e4da48af6a2da197a2, type: 3}
       propertyPath: m_LocalPosition.x
@@ -5114,7 +5844,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 4882506722377818, guid: e33b22547c18f7e4da48af6a2da197a2, type: 3}
       propertyPath: m_LocalPosition.y
-      value: 1.283
+      value: 0.76799995
       objectReference: {fileID: 0}
     - target: {fileID: 4882506722377818, guid: e33b22547c18f7e4da48af6a2da197a2, type: 3}
       propertyPath: m_LocalPosition.z
@@ -5426,7 +6156,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 4659579814028464, guid: 9020d2933ec6c0544965ea4b12952c42, type: 3}
       propertyPath: m_RootOrder
-      value: 16
+      value: 17
       objectReference: {fileID: 0}
     - target: {fileID: 4659579814028464, guid: 9020d2933ec6c0544965ea4b12952c42, type: 3}
       propertyPath: m_LocalPosition.x
@@ -5587,43 +6317,43 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 4977584128052008, guid: 553b78d8ae93c1d4684ce08da9c45a5a, type: 3}
       propertyPath: m_LocalPosition.x
-      value: 6.335867
+      value: 5.903185
       objectReference: {fileID: 0}
     - target: {fileID: 4977584128052008, guid: 553b78d8ae93c1d4684ce08da9c45a5a, type: 3}
       propertyPath: m_LocalPosition.y
-      value: -4.0031185
+      value: -4.1627364
       objectReference: {fileID: 0}
     - target: {fileID: 4977584128052008, guid: 553b78d8ae93c1d4684ce08da9c45a5a, type: 3}
       propertyPath: m_LocalPosition.z
-      value: -17.394684
+      value: -17.598465
       objectReference: {fileID: 0}
     - target: {fileID: 4977584128052008, guid: 553b78d8ae93c1d4684ce08da9c45a5a, type: 3}
       propertyPath: m_LocalRotation.w
-      value: 0.99253476
+      value: 0.9982426
       objectReference: {fileID: 0}
     - target: {fileID: 4977584128052008, guid: 553b78d8ae93c1d4684ce08da9c45a5a, type: 3}
       propertyPath: m_LocalRotation.x
-      value: -0.039270453
+      value: -0
       objectReference: {fileID: 0}
     - target: {fileID: 4977584128052008, guid: 553b78d8ae93c1d4684ce08da9c45a5a, type: 3}
       propertyPath: m_LocalRotation.y
-      value: 0.06750276
+      value: -0
       objectReference: {fileID: 0}
     - target: {fileID: 4977584128052008, guid: 553b78d8ae93c1d4684ce08da9c45a5a, type: 3}
       propertyPath: m_LocalRotation.z
-      value: 0.09368031
+      value: 0.059260584
       objectReference: {fileID: 0}
     - target: {fileID: 4977584128052008, guid: 553b78d8ae93c1d4684ce08da9c45a5a, type: 3}
       propertyPath: m_LocalEulerAnglesHint.x
-      value: -5.198
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 4977584128052008, guid: 553b78d8ae93c1d4684ce08da9c45a5a, type: 3}
       propertyPath: m_LocalEulerAnglesHint.y
-      value: 7.306
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 4977584128052008, guid: 553b78d8ae93c1d4684ce08da9c45a5a, type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
-      value: 10.452
+      value: 6.795
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 553b78d8ae93c1d4684ce08da9c45a5a, type: 3}
@@ -6079,7 +6809,12 @@ MonoBehaviour:
   trigger: 32
   condition:
     luaConditions: []
-    questConditions: []
+    questConditions:
+    - questName: Find some food for the bandit guard
+      questState: 1
+      checkQuestEntry: 0
+      entryNumber: 0
+      questEntryState: 0
     acceptedTags: []
     acceptedGameObjects: []
     luaWizardIndex: -1
@@ -6209,6 +6944,84 @@ MonoBehaviour:
     prependActorNameSeparator: ': '
     prependActorNameFormat: '{0}{1}'
     subtitleColor: {r: 1, g: 1, b: 1, a: 1}
+--- !u!114 &1817476889
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1817476881}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c593457cd8105e148906690e1707c592, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  trigger: 32
+  condition:
+    luaConditions: []
+    questConditions:
+    - questName: Find some food for the bandit guard
+      questState: 2
+      checkQuestEntry: 0
+      entryNumber: 0
+      questEntryState: 0
+    acceptedTags: []
+    acceptedGameObjects: []
+    luaWizardIndex: -1
+    lastEvaluationValue: 0
+  setQuestState: 1
+  questName: 
+  questState: 0
+  setQuestEntryState: 0
+  questEntryNumber: 1
+  questEntryState: 0
+  setAnotherQuestEntryState: 0
+  anotherQuestEntryNumber: 1
+  anotherQuestEntryState: 0
+  luaCode: 
+  sequence: 
+  sequenceSpeaker: {fileID: 0}
+  sequenceListener: {fileID: 0}
+  waitOneFrameOnStartOrEnable: 1
+  alertMessage: 
+  textTable: {fileID: 0}
+  alertDuration: 0
+  sendMessages: []
+  barkSource: 1
+  barkConversation: Unhelpful Barks
+  barkText: 
+  barkTextSequence: 
+  barker: {fileID: 1817476883}
+  barkTarget: {fileID: 0}
+  barkOrder: 0
+  allowBarksDuringConversations: 0
+  skipBarkIfNoValidEntries: 0
+  cacheBarkLines: 0
+  conversation: 
+  conversationConversant: {fileID: 0}
+  conversationActor: {fileID: 0}
+  startConversationEntryID: -1
+  startConversationEntryTitle: 
+  exclusive: 0
+  replace: 0
+  skipIfNoValidEntries: 0
+  preventRestartOnSameFrameEnded: 0
+  stopConversationOnTriggerExit: 0
+  stopConversationIfTooFar: 0
+  maxConversationDistance: 5
+  monitorConversationDistanceFrequency: 1
+  showCursorDuringConversation: 0
+  pauseGameDuringConversation: 0
+  setActiveActions: []
+  setEnabledActions: []
+  setAnimatorStateActions: []
+  onExecute:
+    m_PersistentCalls:
+      m_Calls: []
+  useConversationTitlePicker: 1
+  useBarkTitlePicker: 1
+  useQuestNamePicker: 1
+  selectedDatabase: {fileID: 11400000, guid: fae13e34cbc940f498d83fef447af701, type: 2}
 --- !u!1 &1843721848 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 1772075827281016, guid: b04408cce5f94234d920b87a9bfa438a,
@@ -6589,7 +7402,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 4138797530930898, guid: 56c2972ef22f36e49b6a01897a85e62d, type: 3}
       propertyPath: m_RootOrder
-      value: 4
+      value: 5
       objectReference: {fileID: 0}
     - target: {fileID: 4138797530930898, guid: 56c2972ef22f36e49b6a01897a85e62d, type: 3}
       propertyPath: m_LocalPosition.x
@@ -6597,11 +7410,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 4138797530930898, guid: 56c2972ef22f36e49b6a01897a85e62d, type: 3}
       propertyPath: m_LocalPosition.y
-      value: 2.033
+      value: 1.513
       objectReference: {fileID: 0}
     - target: {fileID: 4138797530930898, guid: 56c2972ef22f36e49b6a01897a85e62d, type: 3}
       propertyPath: m_LocalPosition.z
-      value: -105.053
+      value: -105.294
       objectReference: {fileID: 0}
     - target: {fileID: 4138797530930898, guid: 56c2972ef22f36e49b6a01897a85e62d, type: 3}
       propertyPath: m_LocalRotation.w
@@ -6634,6 +7447,246 @@ PrefabInstance:
     m_RemovedComponents:
     - {fileID: 64971683734800568, guid: 56c2972ef22f36e49b6a01897a85e62d, type: 3}
   m_SourcePrefab: {fileID: 100100000, guid: 56c2972ef22f36e49b6a01897a85e62d, type: 3}
+--- !u!1 &1898085014 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 1551201315733772, guid: 64eb1c3ceef25d4408786c061ce050ea,
+    type: 3}
+  m_PrefabInstance: {fileID: 172135713}
+  m_PrefabAsset: {fileID: 0}
+--- !u!114 &1898085015
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1898085014}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a64578247383140469c45370654a984a, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  actor: Steve
+  persistentDataName: 
+  portrait: {fileID: 0}
+  spritePortrait: {fileID: 0}
+  barkUISettings:
+    barkUI: {fileID: 11453294, guid: d5a18ab9ec93e0d4284d6fbae4f557e0, type: 3}
+    barkUIOffset: {x: 0, y: 0, z: 0}
+  standardDialogueUISettings:
+    subtitlePanelNumber: 0
+    customSubtitlePanel: {fileID: 0}
+    customSubtitlePanelOffset: {x: 0, y: 0, z: 0}
+    menuPanelNumber: 0
+    customMenuPanel: {fileID: 0}
+    customMenuPanelOffset: {x: 0, y: 0, z: 0}
+    useMenuPanelFor: 0
+    portraitAnimatorController: {fileID: 0}
+    setSubtitleColor: 0
+    applyColorToPrependedName: 0
+    prependActorNameSeparator: ': '
+    prependActorNameFormat: '{0}{1}'
+    subtitleColor: {r: 1, g: 1, b: 1, a: 1}
+--- !u!114 &1898085016
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1898085014}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 274b80ab5b659c646ba9338870d14625, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  overrideName: 
+  overrideUseMessage: 
+  maxUseDistance: 5
+  events:
+    onSelect:
+      m_PersistentCalls:
+        m_Calls: []
+    onDeselect:
+      m_PersistentCalls:
+        m_Calls: []
+    onUse:
+      m_PersistentCalls:
+        m_Calls: []
+--- !u!114 &1898085017
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1898085014}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c593457cd8105e148906690e1707c592, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  trigger: 32
+  condition:
+    luaConditions: []
+    questConditions:
+    - questName: Find some food for the bandit guard
+      questState: 1
+      checkQuestEntry: 0
+      entryNumber: 0
+      questEntryState: 0
+    acceptedTags: []
+    acceptedGameObjects: []
+    luaWizardIndex: -1
+    lastEvaluationValue: 0
+  setQuestState: 1
+  questName: 
+  questState: 0
+  setQuestEntryState: 0
+  questEntryNumber: 1
+  questEntryState: 0
+  setAnotherQuestEntryState: 0
+  anotherQuestEntryNumber: 1
+  anotherQuestEntryState: 0
+  luaCode: 
+  sequence: 
+  sequenceSpeaker: {fileID: 0}
+  sequenceListener: {fileID: 0}
+  waitOneFrameOnStartOrEnable: 1
+  alertMessage: 
+  textTable: {fileID: 0}
+  alertDuration: 0
+  sendMessages: []
+  barkSource: 1
+  barkConversation: Barks
+  barkText: 
+  barkTextSequence: 
+  barker: {fileID: 1898085020}
+  barkTarget: {fileID: 0}
+  barkOrder: 0
+  allowBarksDuringConversations: 0
+  skipBarkIfNoValidEntries: 0
+  cacheBarkLines: 0
+  conversation: 
+  conversationConversant: {fileID: 0}
+  conversationActor: {fileID: 0}
+  startConversationEntryID: -1
+  startConversationEntryTitle: 
+  exclusive: 0
+  replace: 0
+  skipIfNoValidEntries: 0
+  preventRestartOnSameFrameEnded: 0
+  stopConversationOnTriggerExit: 0
+  stopConversationIfTooFar: 0
+  maxConversationDistance: 5
+  monitorConversationDistanceFrequency: 1
+  showCursorDuringConversation: 0
+  pauseGameDuringConversation: 0
+  setActiveActions: []
+  setEnabledActions: []
+  setAnimatorStateActions: []
+  onExecute:
+    m_PersistentCalls:
+      m_Calls: []
+  useConversationTitlePicker: 1
+  useBarkTitlePicker: 1
+  useQuestNamePicker: 1
+  selectedDatabase: {fileID: 11400000, guid: fae13e34cbc940f498d83fef447af701, type: 2}
+--- !u!136 &1898085018
+CapsuleCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1898085014}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  m_Radius: 0.5
+  m_Height: 2.257705
+  m_Direction: 1
+  m_Center: {x: 0, y: 0.9216713, z: 0}
+--- !u!4 &1898085020 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 4828938836204182, guid: 64eb1c3ceef25d4408786c061ce050ea,
+    type: 3}
+  m_PrefabInstance: {fileID: 172135713}
+  m_PrefabAsset: {fileID: 0}
+--- !u!114 &1898085021
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1898085014}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c593457cd8105e148906690e1707c592, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  trigger: 32
+  condition:
+    luaConditions: []
+    questConditions:
+    - questName: Find some food for the bandit guard
+      questState: 2
+      checkQuestEntry: 0
+      entryNumber: 0
+      questEntryState: 0
+    acceptedTags: []
+    acceptedGameObjects: []
+    luaWizardIndex: -1
+    lastEvaluationValue: 0
+  setQuestState: 1
+  questName: 
+  questState: 0
+  setQuestEntryState: 0
+  questEntryNumber: 1
+  questEntryState: 0
+  setAnotherQuestEntryState: 0
+  anotherQuestEntryNumber: 1
+  anotherQuestEntryState: 0
+  luaCode: 
+  sequence: 
+  sequenceSpeaker: {fileID: 0}
+  sequenceListener: {fileID: 0}
+  waitOneFrameOnStartOrEnable: 1
+  alertMessage: 
+  textTable: {fileID: 0}
+  alertDuration: 0
+  sendMessages: []
+  barkSource: 1
+  barkConversation: Helpful Barks
+  barkText: 
+  barkTextSequence: 
+  barker: {fileID: 1898085020}
+  barkTarget: {fileID: 0}
+  barkOrder: 0
+  allowBarksDuringConversations: 0
+  skipBarkIfNoValidEntries: 0
+  cacheBarkLines: 0
+  conversation: 
+  conversationConversant: {fileID: 0}
+  conversationActor: {fileID: 0}
+  startConversationEntryID: -1
+  startConversationEntryTitle: 
+  exclusive: 0
+  replace: 0
+  skipIfNoValidEntries: 0
+  preventRestartOnSameFrameEnded: 0
+  stopConversationOnTriggerExit: 0
+  stopConversationIfTooFar: 0
+  maxConversationDistance: 5
+  monitorConversationDistanceFrequency: 1
+  showCursorDuringConversation: 0
+  pauseGameDuringConversation: 0
+  setActiveActions: []
+  setEnabledActions: []
+  setAnimatorStateActions: []
+  onExecute:
+    m_PersistentCalls:
+      m_Calls: []
+  useConversationTitlePicker: 1
+  useBarkTitlePicker: 1
+  useQuestNamePicker: 1
+  selectedDatabase: {fileID: 11400000, guid: fae13e34cbc940f498d83fef447af701, type: 2}
 --- !u!1001 &1913147649
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -6908,7 +7961,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 4970816731204970, guid: b04408cce5f94234d920b87a9bfa438a, type: 3}
       propertyPath: m_RootOrder
-      value: 14
+      value: 15
       objectReference: {fileID: 0}
     - target: {fileID: 4970816731204970, guid: b04408cce5f94234d920b87a9bfa438a, type: 3}
       propertyPath: m_LocalPosition.x
@@ -7040,11 +8093,11 @@ MonoBehaviour:
   textTable: {fileID: 0}
   alertDuration: 0
   sendMessages: []
-  barkSource: 0
-  barkConversation: 
+  barkSource: 1
+  barkConversation: Cheese Stolen
   barkText: 
   barkTextSequence: 
-  barker: {fileID: 0}
+  barker: {fileID: 1546121916}
   barkTarget: {fileID: 0}
   barkOrder: 0
   allowBarksDuringConversations: 0
@@ -7084,63 +8137,39 @@ MonoBehaviour:
   useBarkTitlePicker: 1
   useQuestNamePicker: 1
   selectedDatabase: {fileID: 11400000, guid: fae13e34cbc940f498d83fef447af701, type: 2}
---- !u!1001 &2099011831
-PrefabInstance:
+--- !u!114 &2060031022
+MonoBehaviour:
   m_ObjectHideFlags: 0
-  serializedVersion: 2
-  m_Modification:
-    m_TransformParent: {fileID: 0}
-    m_Modifications:
-    - target: {fileID: 1330193041299404, guid: 8ec29696c3f5cc04faf6c4c6a5ffb0ea, type: 3}
-      propertyPath: m_Name
-      value: SM_Prop_Skeleton_Ground_01
-      objectReference: {fileID: 0}
-    - target: {fileID: 4165618951862630, guid: 8ec29696c3f5cc04faf6c4c6a5ffb0ea, type: 3}
-      propertyPath: m_RootOrder
-      value: 18
-      objectReference: {fileID: 0}
-    - target: {fileID: 4165618951862630, guid: 8ec29696c3f5cc04faf6c4c6a5ffb0ea, type: 3}
-      propertyPath: m_LocalPosition.x
-      value: -24.38
-      objectReference: {fileID: 0}
-    - target: {fileID: 4165618951862630, guid: 8ec29696c3f5cc04faf6c4c6a5ffb0ea, type: 3}
-      propertyPath: m_LocalPosition.y
-      value: 0.06
-      objectReference: {fileID: 0}
-    - target: {fileID: 4165618951862630, guid: 8ec29696c3f5cc04faf6c4c6a5ffb0ea, type: 3}
-      propertyPath: m_LocalPosition.z
-      value: -190.229
-      objectReference: {fileID: 0}
-    - target: {fileID: 4165618951862630, guid: 8ec29696c3f5cc04faf6c4c6a5ffb0ea, type: 3}
-      propertyPath: m_LocalRotation.w
-      value: 0.8940117
-      objectReference: {fileID: 0}
-    - target: {fileID: 4165618951862630, guid: 8ec29696c3f5cc04faf6c4c6a5ffb0ea, type: 3}
-      propertyPath: m_LocalRotation.x
-      value: -0
-      objectReference: {fileID: 0}
-    - target: {fileID: 4165618951862630, guid: 8ec29696c3f5cc04faf6c4c6a5ffb0ea, type: 3}
-      propertyPath: m_LocalRotation.y
-      value: 0.4480437
-      objectReference: {fileID: 0}
-    - target: {fileID: 4165618951862630, guid: 8ec29696c3f5cc04faf6c4c6a5ffb0ea, type: 3}
-      propertyPath: m_LocalRotation.z
-      value: -0
-      objectReference: {fileID: 0}
-    - target: {fileID: 4165618951862630, guid: 8ec29696c3f5cc04faf6c4c6a5ffb0ea, type: 3}
-      propertyPath: m_LocalEulerAnglesHint.x
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 4165618951862630, guid: 8ec29696c3f5cc04faf6c4c6a5ffb0ea, type: 3}
-      propertyPath: m_LocalEulerAnglesHint.y
-      value: 53.236
-      objectReference: {fileID: 0}
-    - target: {fileID: 4165618951862630, guid: 8ec29696c3f5cc04faf6c4c6a5ffb0ea, type: 3}
-      propertyPath: m_LocalEulerAnglesHint.z
-      value: 0
-      objectReference: {fileID: 0}
-    m_RemovedComponents: []
-  m_SourcePrefab: {fileID: 100100000, guid: 8ec29696c3f5cc04faf6c4c6a5ffb0ea, type: 3}
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2060031013}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a64578247383140469c45370654a984a, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  actor: Plate of Cheese
+  persistentDataName: 
+  portrait: {fileID: 0}
+  spritePortrait: {fileID: 0}
+  barkUISettings:
+    barkUI: {fileID: 11453294, guid: d5a18ab9ec93e0d4284d6fbae4f557e0, type: 3}
+    barkUIOffset: {x: 0, y: 0, z: 0}
+  standardDialogueUISettings:
+    subtitlePanelNumber: 0
+    customSubtitlePanel: {fileID: 0}
+    customSubtitlePanelOffset: {x: 0, y: 0, z: 0}
+    menuPanelNumber: 0
+    customMenuPanel: {fileID: 0}
+    customMenuPanelOffset: {x: 0, y: 0, z: 0}
+    useMenuPanelFor: 0
+    portraitAnimatorController: {fileID: 0}
+    setSubtitleColor: 0
+    applyColorToPrependedName: 0
+    prependActorNameSeparator: ': '
+    prependActorNameFormat: '{0}{1}'
+    subtitleColor: {r: 1, g: 1, b: 1, a: 1}
 --- !u!1001 &2114896740
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -7154,19 +8183,19 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 4009105922347784, guid: a603f239fabbe7340b05a53dd8588e06, type: 3}
       propertyPath: m_RootOrder
-      value: 13
+      value: 14
       objectReference: {fileID: 0}
     - target: {fileID: 4009105922347784, guid: a603f239fabbe7340b05a53dd8588e06, type: 3}
       propertyPath: m_LocalPosition.x
-      value: 26.47
+      value: 17.3
       objectReference: {fileID: 0}
     - target: {fileID: 4009105922347784, guid: a603f239fabbe7340b05a53dd8588e06, type: 3}
       propertyPath: m_LocalPosition.y
-      value: 2.14
+      value: 4.4
       objectReference: {fileID: 0}
     - target: {fileID: 4009105922347784, guid: a603f239fabbe7340b05a53dd8588e06, type: 3}
       propertyPath: m_LocalPosition.z
-      value: -75.66899
+      value: -76.8
       objectReference: {fileID: 0}
     - target: {fileID: 4009105922347784, guid: a603f239fabbe7340b05a53dd8588e06, type: 3}
       propertyPath: m_LocalRotation.w
@@ -7215,7 +8244,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 4106335723276150, guid: 6a71738add6483c4e8a1479556240d54, type: 3}
       propertyPath: m_RootOrder
-      value: 7
+      value: 8
       objectReference: {fileID: 0}
     - target: {fileID: 4106335723276150, guid: 6a71738add6483c4e8a1479556240d54, type: 3}
       propertyPath: m_LocalPosition.x
@@ -7257,5 +8286,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 95365376127056996, guid: 6a71738add6483c4e8a1479556240d54,
+        type: 3}
+      propertyPath: m_Controller
+      value: 
+      objectReference: {fileID: 9100000, guid: c0ecf631f016b6b49ac6cc6693ba1b5c, type: 2}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 6a71738add6483c4e8a1479556240d54, type: 3}
