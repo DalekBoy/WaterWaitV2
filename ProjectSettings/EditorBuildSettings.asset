@@ -6,8 +6,11 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/Dead-Simple Dialogue/Demo/Scenes/SampleScene.unity
-    guid: 2cda990e2423bbf4892e6590ba056729
+    path: Assets/Scenes/MainMenu.unity
+    guid: 2730f212d845df747b37cb6094af0762
+  - enabled: 1
+    path: Assets/Scenes/WaterWaitV2 Level.unity
+    guid: ac6083d5238bf6a4983273d49ec4a1fb
   m_configObjects:
     com.unity.input.settings: {fileID: 11400000, guid: 9e7be553448fa2546aea5752021cbcf7,
       type: 2}
