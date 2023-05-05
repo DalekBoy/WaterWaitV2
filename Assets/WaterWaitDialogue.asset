@@ -1539,8 +1539,8 @@ MonoBehaviour:
         type: 0
         typeString: CustomFieldType_Text
       - title: Dialogue Text
-        value: Ah finally, some food! Thank you, my friend. I'll guess I'll go and
-          see what the boss wants, then!
+        value: Ah finally, some food! Thank you, my friend. I guess I'll go and see
+          what the boss wants, then!
         type: 0
         typeString: CustomFieldType_Text
       - title: Sequence
